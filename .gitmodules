@@ -16,4 +16,4 @@
 [submodule "base-image/meta-nodejs"]
 	path = base-image/meta-nodejs
 	url = https://github.com/imyller/meta-nodejs
-	branch = master
+	branch = morty
