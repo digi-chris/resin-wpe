@@ -13,7 +13,7 @@
 	path = base-image/meta-raspberrypi
 	url = git://git.yoctoproject.org/meta-raspberrypi
 	branch = morty
-[submodeul "base-image/meta-nodejs"]
+[submodule "base-image/meta-nodejs"]
 	path = base-image/meta-nodejs
 	url = https://github.com/imyller/meta-nodejs
 	branch = master
